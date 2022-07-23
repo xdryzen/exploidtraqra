@@ -1,6 +1,7 @@
 # WANG TOHANG
 <img src='https://avatars.githubusercontent.com/u/69730462?v=4' width='300' height='400'>
-### 👨‍💻 Programming and markup languages
+
+# 👨‍💻 Programming and markup languages
 
 <p>
     <a href="https://github.com/search?q=user%3Aryugenxd+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
