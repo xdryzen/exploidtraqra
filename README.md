@@ -1,6 +1,8 @@
 
 # 👨‍💻 Programming and markup languages
 
+____
+
 <p align="center">
     <a href="https://github.com/search?q=user%3Aryugenxd+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aryugenxd+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -17,17 +19,26 @@
 </p>
 
 
+____
+
 > GITHUB STATES :
 
 <div align="center">
 <a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=exploidtraqra&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 </div>
 
+
+____
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=exploidtraqra&theme=merko">
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=exploidtraqra&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats">
 </div>
+
+
+____
+
 <div align="center">
 <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=exploidtraqra&layout=compact&theme=chartreuse-dark" />
 </div>
