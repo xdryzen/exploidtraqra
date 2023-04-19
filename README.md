@@ -1,5 +1,5 @@
 
-# 👨‍💻 Programming and markup languages
+<!-- # 👨‍💻 Programming and markup languages
 
 ____
 
@@ -26,7 +26,7 @@ ____
 <div align="center">
 <a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=exploidtraqra&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 </div>
-
+ -->
 
 ____
 
